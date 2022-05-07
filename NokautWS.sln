@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NokautWS", "NokautWS\NokautWS.csproj", "{4091FE0A-C05F-43BC-91A2-2FB651E5DCAF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4091FE0A-C05F-43BC-91A2-2FB651E5DCAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4091FE0A-C05F-43BC-91A2-2FB651E5DCAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4091FE0A-C05F-43BC-91A2-2FB651E5DCAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4091FE0A-C05F-43BC-91A2-2FB651E5DCAF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
